@@ -2,7 +2,7 @@
   "name": "react-native-tcscan",
   "version": "1.0.1",
   "description": "support ios && android qrcode scan",
-  "main": "yes",
+  "main": "index",
   
   "repository": {
     "type": "git",
